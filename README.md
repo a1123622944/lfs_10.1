@@ -9,3 +9,9 @@ Pic:					      Sreenshots of the LFS process<br>
 LFS_modify:				  LFS实践修改记录<br>
 LFS-BOOK-10.1:      LFS Book<br>
 VirtualBox_Daily_Learning_Record  vbox的学习记录。包括vbox、linux内核模块nbd使用学习以及vdi等知识等学习。
+
+
+
+# lfs_10.1实践第二遍<br>
+lfs.zip:				包含Dockerfile、运行脚本lfs_10.1.sh、linux配置文件.config
+Ubuntu_64.vbox				vbox虚拟机配置文件
