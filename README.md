@@ -13,5 +13,4 @@ VirtualBox_Daily_Learning_Record  vbox的学习记录。包括vbox、linux内核
 
 
 # lfs_10.1实践第二遍<br>
-lfs.zip:				包含Dockerfile、运行脚本lfs_10.1.sh(脚本在Dockerfile中运行,运行流程在setup.sh中)、linux配置文件.config
-Ubuntu_64.vbox				vbox虚拟机配置文件
+lfs_docker.zip:				包含Dockerfile、运行脚本lfs_10.1.sh(脚本在Dockerfile中运行,运行流程在setup.sh中)、linux配置文件.config、虚拟机配置文件
